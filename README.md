@@ -1,5 +1,7 @@
 # Contract Comparison Tool
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
 A powerful tool for comparing PDF contracts and identifying meaningful differences. The tool uses advanced natural language processing to focus on substantive changes that matter, like financial terms, deadlines, and significant legal provisions.
 
 ## Features
